@@ -2,6 +2,6 @@ This is original text in the file
 
 This is a change, which created a conflict but has been resolved.
 
-new-branch
+new-branch [modified]
 
 Master [modified]
